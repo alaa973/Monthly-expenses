@@ -1,0 +1,4 @@
+tomatoes food 50 9 4 2021 
+meat food 200 9 5 2021 
+tv electronics 1000 9 6 2021 
+lipstick makeup 100 9 6 2021 

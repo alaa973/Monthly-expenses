@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Monthly Expeses.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  monthly expenses.cpp
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(40,15): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(42,15): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(44,15): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(226,20): warning C4018: '<': signed/unsigned mismatch
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(263,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(270,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(279,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(302,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(303,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(308,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(309,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(314,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(315,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(367,20): warning C4018: '<': signed/unsigned mismatch
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(538,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(542,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Monthly Expeses\Monthly Expeses\monthly expenses.cpp(545,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Monthly Expeses.vcxproj -> E:\Monthly Expeses\Debug\Monthly Expenses.exe
